@@ -1,0 +1,15 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/tomasnorre/hugo-portfolio-theme/#themetoml for an example
+
+name = "Tonomi Portfolio"
+license = "MIT"
+licenselink = "https://github.com/tomasnorre/hugo-portfolio-theme/blob/master/LICENSE"
+description = "A portfolio Theme for Hugo IO"
+homepage = "https://github.com/tomasnorre/hugo-portfolio-theme/
+tags = ['personal-website', 'personal', 'portfolio', 'single-page', 'one-page', 'fast', 'customizable', 'mobile', 'resume', 'fresh', 'modern', 'hugo-theme', 'hugo', 'bootstrap', 'responsive', 'clean', 'simple', 'creative', 'contact form', 'light', 'white', 'custom-design', 'minimal', 'minimalistic', 'minimalist', 'portfolio', 'customizable', 'starter', 'theme']
+features = ['responsive', 'bootstrap']
+min_version = "0.41"
+
+[author]
+  name = "Tomas Norre Mikkelsen"
+  homepage = "https://github.com/tomasnorre"
